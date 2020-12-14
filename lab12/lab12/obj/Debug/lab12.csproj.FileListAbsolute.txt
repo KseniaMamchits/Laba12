@@ -1,0 +1,13 @@
+D:\proga\Lab12\lab12\lab12\bin\Debug\lab12.exe.config
+D:\proga\Lab12\lab12\lab12\bin\Debug\lab12.exe
+D:\proga\Lab12\lab12\lab12\bin\Debug\lab12.pdb
+D:\proga\Lab12\lab12\lab12\obj\Debug\lab12.csproj.CoreCompileInputs.cache
+D:\proga\Lab12\lab12\lab12\obj\Debug\lab12.exe
+D:\proga\Lab12\lab12\lab12\obj\Debug\lab12.pdb
+D:\proga\Lab12\lab12\lab12\obj\Debug\lab12.csprojAssemblyReference.cache
+C:\Users\Ksenia\Lab12\lab12\lab12\bin\Debug\lab12.exe.config
+C:\Users\Ksenia\Lab12\lab12\lab12\bin\Debug\lab12.exe
+C:\Users\Ksenia\Lab12\lab12\lab12\bin\Debug\lab12.pdb
+C:\Users\Ksenia\Lab12\lab12\lab12\obj\Debug\lab12.csprojAssemblyReference.cache
+C:\Users\Ksenia\Lab12\lab12\lab12\obj\Debug\lab12.exe
+C:\Users\Ksenia\Lab12\lab12\lab12\obj\Debug\lab12.pdb

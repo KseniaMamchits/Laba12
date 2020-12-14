@@ -1,0 +1,183 @@
+﻿
+
+Вся информация о полях и свойствах lab12.Flat:
+Type - Field. Name - street
+Type - Field. Name - num
+Type - Field. Name - flats
+Type - Field. Name - agelimit
+Type - Field. Name - number
+Type - Property. Name - Street
+Type - Property. Name - Num
+
+Вся информация о полях и свойствах lab12.Flat:
+Type - Field. Name - street
+Type - Field. Name - num
+Type - Field. Name - flats
+Type - Field. Name - agelimit
+Type - Field. Name - number
+Type - Property. Name - Street
+Type - Property. Name - Num
+
+Вся информация о полях и свойствах lab12.Student:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Flat:
+Type - Field. Name - street
+Type - Field. Name - num
+Type - Field. Name - flats
+Type - Field. Name - agelimit
+Type - Field. Name - number
+Type - Property. Name - Street
+Type - Property. Name - Num
+
+Вся информация о полях и свойствах lab12.Student:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Flat:
+Type - Field. Name - street
+Type - Field. Name - num
+Type - Field. Name - flats
+Type - Field. Name - agelimit
+Type - Field. Name - number
+Type - Property. Name - Street
+Type - Property. Name - Num
+
+Вся информация о полях и свойствах lab12.Student:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Flat:
+Type - Field. Name - street
+Type - Field. Name - num
+Type - Field. Name - flats
+Type - Field. Name - agelimit
+Type - Field. Name - number
+Type - Property. Name - Street
+Type - Property. Name - Num
+
+Вся информация о полях и свойствах lab12.Student:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Flat:
+Type - Field. Name - street
+Type - Field. Name - num
+Type - Field. Name - flats
+Type - Field. Name - agelimit
+Type - Field. Name - number
+Type - Property. Name - Street
+Type - Property. Name - Num
+
+Вся информация о полях и свойствах lab12.Student:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Flat:
+Type - Field. Name - street
+Type - Field. Name - num
+Type - Field. Name - flats
+Type - Field. Name - agelimit
+Type - Field. Name - number
+Type - Property. Name - Street
+Type - Property. Name - Num
+
+Вся информация о полях и свойствах lab12.Student:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Flat:
+Type - Field. Name - street
+Type - Field. Name - num
+Type - Field. Name - flats
+Type - Field. Name - agelimit
+Type - Field. Name - number
+Type - Property. Name - Street
+Type - Property. Name - Num
+
+Вся информация о полях и свойствах lab12.Student:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Flat:
+Type - Field. Name - street
+Type - Field. Name - num
+Type - Field. Name - flats
+Type - Field. Name - agelimit
+Type - Field. Name - number
+Type - Property. Name - Street
+Type - Property. Name - Num
+
+Вся информация о полях и свойствах lab12.Student:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Flat:
+Type - Field. Name - street
+Type - Field. Name - num
+Type - Field. Name - flats
+Type - Field. Name - agelimit
+Type - Field. Name - number
+Type - Property. Name - Street
+Type - Property. Name - Num
+
+Вся информация о полях и свойствах lab12.Flat:
+Type - Field. Name - street
+Type - Field. Name - num
+Type - Field. Name - flats
+Type - Field. Name - agelimit
+Type - Field. Name - number
+Type - Property. Name - Street
+Type - Property. Name - Num
+
+Вся информация о полях и свойствах lab12.Student:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Flat:
+Type - Field. Name - street
+Type - Field. Name - num
+Type - Field. Name - flats
+Type - Field. Name - agelimit
+Type - Field. Name - number
+Type - Property. Name - Street
+Type - Property. Name - Num
+
+Вся информация о полях и свойствах lab12.Flat:
+Type - Field. Name - street
+Type - Field. Name - num
+Type - Field. Name - flats
+Type - Field. Name - agelimit
+Type - Field. Name - number
+Type - Property. Name - Street
+Type - Property. Name - Num
+
+Вся информация о полях и свойствах lab12.Student:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Flat:
+Type - Field. Name - street
+Type - Field. Name - num
+Type - Field. Name - flats
+Type - Field. Name - agelimit
+Type - Field. Name - number
+Type - Property. Name - Street
+Type - Property. Name - Num
+
+Вся информация о полях и свойствах lab12.Student:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+

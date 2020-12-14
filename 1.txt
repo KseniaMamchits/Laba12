@@ -1,0 +1,472 @@
+﻿
+
+Все содержимое класса lab12.Flat:
+Method - get_Street
+Method - set_Street
+Method - get_Num
+Method - set_Num
+Method - Move
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Constructor - .ctor
+Property - Street
+Property - Num
+Field - street
+Field - num
+Field - flats
+Field - agelimit
+Field - number
+
+Все содержимое класса lab12.Flat:
+Method - get_Street
+Method - set_Street
+Method - get_Num
+Method - set_Num
+Method - Move
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Constructor - .ctor
+Property - Street
+Property - Num
+Field - street
+Field - num
+Field - flats
+Field - agelimit
+Field - number
+
+Все содержимое класса lab12.Student:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Method - ToString
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Flat:
+Method - get_Street
+Method - set_Street
+Method - get_Num
+Method - set_Num
+Method - Move
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Constructor - .ctor
+Property - Street
+Property - Num
+Field - street
+Field - num
+Field - flats
+Field - agelimit
+Field - number
+
+Все содержимое класса lab12.Student:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Method - ToString
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Flat:
+Method - get_Street
+Method - set_Street
+Method - get_Num
+Method - set_Num
+Method - Move
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Constructor - .ctor
+Property - Street
+Property - Num
+Field - street
+Field - num
+Field - flats
+Field - agelimit
+Field - number
+
+Все содержимое класса lab12.Student:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Method - ToString
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Flat:
+Method - get_Street
+Method - set_Street
+Method - get_Num
+Method - set_Num
+Method - Move
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Constructor - .ctor
+Property - Street
+Property - Num
+Field - street
+Field - num
+Field - flats
+Field - agelimit
+Field - number
+
+Все содержимое класса lab12.Student:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Method - ToString
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Flat:
+Method - get_Street
+Method - set_Street
+Method - get_Num
+Method - set_Num
+Method - Move
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Constructor - .ctor
+Property - Street
+Property - Num
+Field - street
+Field - num
+Field - flats
+Field - agelimit
+Field - number
+
+Все содержимое класса lab12.Student:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Method - ToString
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Flat:
+Method - get_Street
+Method - set_Street
+Method - get_Num
+Method - set_Num
+Method - Move
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Constructor - .ctor
+Property - Street
+Property - Num
+Field - street
+Field - num
+Field - flats
+Field - agelimit
+Field - number
+
+Все содержимое класса lab12.Student:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Method - ToString
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Flat:
+Method - get_Street
+Method - set_Street
+Method - get_Num
+Method - set_Num
+Method - Move
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Constructor - .ctor
+Property - Street
+Property - Num
+Field - street
+Field - num
+Field - flats
+Field - agelimit
+Field - number
+
+Все содержимое класса lab12.Student:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Method - ToString
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Flat:
+Method - get_Street
+Method - set_Street
+Method - get_Num
+Method - set_Num
+Method - Move
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Constructor - .ctor
+Property - Street
+Property - Num
+Field - street
+Field - num
+Field - flats
+Field - agelimit
+Field - number
+
+Все содержимое класса lab12.Student:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Method - ToString
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Flat:
+Method - get_Street
+Method - set_Street
+Method - get_Num
+Method - set_Num
+Method - Move
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Constructor - .ctor
+Property - Street
+Property - Num
+Field - street
+Field - num
+Field - flats
+Field - agelimit
+Field - number
+
+Все содержимое класса lab12.Flat:
+Method - get_Street
+Method - set_Street
+Method - get_Num
+Method - set_Num
+Method - Move
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Constructor - .ctor
+Property - Street
+Property - Num
+Field - street
+Field - num
+Field - flats
+Field - agelimit
+Field - number
+
+Все содержимое класса lab12.Student:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Method - ToString
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Flat:
+Method - get_Street
+Method - set_Street
+Method - get_Num
+Method - set_Num
+Method - Move
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Constructor - .ctor
+Property - Street
+Property - Num
+Field - street
+Field - num
+Field - flats
+Field - agelimit
+Field - number
+
+Все содержимое класса lab12.Flat:
+Method - get_Street
+Method - set_Street
+Method - get_Num
+Method - set_Num
+Method - Move
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Constructor - .ctor
+Property - Street
+Property - Num
+Field - street
+Field - num
+Field - flats
+Field - agelimit
+Field - number
+
+Все содержимое класса lab12.Student:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Method - ToString
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Flat:
+Method - get_Street
+Method - set_Street
+Method - get_Num
+Method - set_Num
+Method - Move
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Constructor - .ctor
+Property - Street
+Property - Num
+Field - street
+Field - num
+Field - flats
+Field - agelimit
+Field - number
+
+Все содержимое класса lab12.Student:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Method - ToString
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+

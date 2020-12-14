@@ -1,0 +1,242 @@
+﻿
+
+Все публичные методы класса lab12.Flat:
+Method Name - get_Street. Method Return Type - System.String
+Method Name - set_Street. Method Return Type - System.Void
+Method Name - get_Num. Method Return Type - System.Int32
+Method Name - set_Num. Method Return Type - System.Void
+Method Name - Move. Method Return Type - System.Void
+Method Name - ToString. Method Return Type - System.String
+Method Name - Show. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+
+Все публичные методы класса lab12.Flat:
+Method Name - get_Street. Method Return Type - System.String
+Method Name - set_Street. Method Return Type - System.Void
+Method Name - get_Num. Method Return Type - System.Int32
+Method Name - set_Num. Method Return Type - System.Void
+Method Name - Move. Method Return Type - System.Void
+Method Name - ToString. Method Return Type - System.String
+Method Name - Show. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+
+Все публичные методы класса lab12.Student:
+Method Name - get_Surname. Method Return Type - System.String
+Method Name - set_Surname. Method Return Type - System.Void
+Method Name - get_Name. Method Return Type - System.String
+Method Name - set_Name. Method Return Type - System.Void
+Method Name - get_Adress. Method Return Type - System.String
+Method Name - set_Adress. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+Method Name - ToString. Method Return Type - System.String
+
+Все публичные методы класса lab12.Flat:
+Method Name - get_Street. Method Return Type - System.String
+Method Name - set_Street. Method Return Type - System.Void
+Method Name - get_Num. Method Return Type - System.Int32
+Method Name - set_Num. Method Return Type - System.Void
+Method Name - Move. Method Return Type - System.Void
+Method Name - ToString. Method Return Type - System.String
+Method Name - Show. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+
+Все публичные методы класса lab12.Student:
+Method Name - get_Surname. Method Return Type - System.String
+Method Name - set_Surname. Method Return Type - System.Void
+Method Name - get_Name. Method Return Type - System.String
+Method Name - set_Name. Method Return Type - System.Void
+Method Name - get_Adress. Method Return Type - System.String
+Method Name - set_Adress. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+Method Name - ToString. Method Return Type - System.String
+
+Все публичные методы класса lab12.Flat:
+Method Name - get_Street. Method Return Type - System.String
+Method Name - set_Street. Method Return Type - System.Void
+Method Name - get_Num. Method Return Type - System.Int32
+Method Name - set_Num. Method Return Type - System.Void
+Method Name - Move. Method Return Type - System.Void
+Method Name - ToString. Method Return Type - System.String
+Method Name - Show. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+
+Все публичные методы класса lab12.Student:
+Method Name - get_Surname. Method Return Type - System.String
+Method Name - set_Surname. Method Return Type - System.Void
+Method Name - get_Name. Method Return Type - System.String
+Method Name - set_Name. Method Return Type - System.Void
+Method Name - get_Adress. Method Return Type - System.String
+Method Name - set_Adress. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+Method Name - ToString. Method Return Type - System.String
+
+Все публичные методы класса lab12.Flat:
+Method Name - get_Street. Method Return Type - System.String
+Method Name - set_Street. Method Return Type - System.Void
+Method Name - get_Num. Method Return Type - System.Int32
+Method Name - set_Num. Method Return Type - System.Void
+Method Name - Move. Method Return Type - System.Void
+Method Name - ToString. Method Return Type - System.String
+Method Name - Show. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+
+Все публичные методы класса lab12.Student:
+Method Name - get_Surname. Method Return Type - System.String
+Method Name - set_Surname. Method Return Type - System.Void
+Method Name - get_Name. Method Return Type - System.String
+Method Name - set_Name. Method Return Type - System.Void
+Method Name - get_Adress. Method Return Type - System.String
+Method Name - set_Adress. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+Method Name - ToString. Method Return Type - System.String
+
+Все публичные методы класса lab12.Flat:
+Method Name - get_Street. Method Return Type - System.String
+Method Name - set_Street. Method Return Type - System.Void
+Method Name - get_Num. Method Return Type - System.Int32
+Method Name - set_Num. Method Return Type - System.Void
+Method Name - Move. Method Return Type - System.Void
+Method Name - ToString. Method Return Type - System.String
+Method Name - Show. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+
+Все публичные методы класса lab12.Student:
+Method Name - get_Surname. Method Return Type - System.String
+Method Name - set_Surname. Method Return Type - System.Void
+Method Name - get_Name. Method Return Type - System.String
+Method Name - set_Name. Method Return Type - System.Void
+Method Name - get_Adress. Method Return Type - System.String
+Method Name - set_Adress. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+Method Name - ToString. Method Return Type - System.String
+
+Все публичные методы класса lab12.Flat:
+
+Все публичные методы класса lab12.Student:
+
+Все публичные методы класса lab12.Flat:
+
+Все публичные методы класса lab12.Student:
+
+Все публичные методы класса lab12.Flat:
+
+Все публичные методы класса lab12.Student:
+
+Все публичные методы класса lab12.Flat:
+Method Name - get_Street. Method Return Type - System.String
+Method Name - set_Street. Method Return Type - System.Void
+Method Name - get_Num. Method Return Type - System.Int32
+Method Name - set_Num. Method Return Type - System.Void
+Method Name - Move. Method Return Type - System.Void
+Method Name - ToString. Method Return Type - System.String
+Method Name - Show. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+
+Все публичные методы класса lab12.Flat:
+Method Name - get_Street. Method Return Type - System.String
+Method Name - set_Street. Method Return Type - System.Void
+Method Name - get_Num. Method Return Type - System.Int32
+Method Name - set_Num. Method Return Type - System.Void
+Method Name - Move. Method Return Type - System.Void
+Method Name - ToString. Method Return Type - System.String
+Method Name - Show. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+
+Все публичные методы класса lab12.Student:
+Method Name - get_Surname. Method Return Type - System.String
+Method Name - set_Surname. Method Return Type - System.Void
+Method Name - get_Name. Method Return Type - System.String
+Method Name - set_Name. Method Return Type - System.Void
+Method Name - get_Adress. Method Return Type - System.String
+Method Name - set_Adress. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+Method Name - ToString. Method Return Type - System.String
+
+Все публичные методы класса lab12.Flat:
+Method Name - get_Street. Method Return Type - System.String
+Method Name - set_Street. Method Return Type - System.Void
+Method Name - get_Num. Method Return Type - System.Int32
+Method Name - set_Num. Method Return Type - System.Void
+Method Name - Move. Method Return Type - System.Void
+Method Name - ToString. Method Return Type - System.String
+Method Name - Show. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+
+Все публичные методы класса lab12.Flat:
+Method Name - get_Street. Method Return Type - System.String
+Method Name - set_Street. Method Return Type - System.Void
+Method Name - get_Num. Method Return Type - System.Int32
+Method Name - set_Num. Method Return Type - System.Void
+Method Name - Move. Method Return Type - System.Void
+Method Name - ToString. Method Return Type - System.String
+Method Name - Show. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+
+Все публичные методы класса lab12.Student:
+Method Name - get_Surname. Method Return Type - System.String
+Method Name - set_Surname. Method Return Type - System.Void
+Method Name - get_Name. Method Return Type - System.String
+Method Name - set_Name. Method Return Type - System.Void
+Method Name - get_Adress. Method Return Type - System.String
+Method Name - set_Adress. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+Method Name - ToString. Method Return Type - System.String
+
+Все публичные методы класса lab12.Flat:
+Method Name - get_Street. Method Return Type - System.String
+Method Name - set_Street. Method Return Type - System.Void
+Method Name - get_Num. Method Return Type - System.Int32
+Method Name - set_Num. Method Return Type - System.Void
+Method Name - Move. Method Return Type - System.Void
+Method Name - ToString. Method Return Type - System.String
+Method Name - Show. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+
+Все публичные методы класса lab12.Student:
+Method Name - get_Surname. Method Return Type - System.String
+Method Name - set_Surname. Method Return Type - System.Void
+Method Name - get_Name. Method Return Type - System.String
+Method Name - set_Name. Method Return Type - System.Void
+Method Name - get_Adress. Method Return Type - System.String
+Method Name - set_Adress. Method Return Type - System.Void
+Method Name - Equals. Method Return Type - System.Boolean
+Method Name - GetHashCode. Method Return Type - System.Int32
+Method Name - GetType. Method Return Type - System.Type
+Method Name - ToString. Method Return Type - System.String
+
